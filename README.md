@@ -76,7 +76,7 @@ Open data on confirmed scams, useful for research, ML training, and replication.
 - [Top 10 brand-jacked tokens on Ethereum](https://rektradar.io/blog/posts/top-10-brand-jacked-tokens-ethereum/) - Data analysis of impersonation patterns.
 - [HoneyBadger: detecting honeypots](https://arxiv.org/abs/1902.06976) - Academic paper, IEEE S&P 2019.
 - [SoK: Decentralized Finance (DeFi)](https://arxiv.org/abs/2101.08778) - Systematic review of DeFi attack surfaces.
-- [CryptoStrapon scam investigations](https://cryptostrapon.com/scams) - Free library of 50 crypto scam investigations with on-chain evidence, in English and Spanish.
+- [CryptoStrapon scam investigations](https://cryptostrapon.com/dark-bits) - Free library of 53 documented crypto scam investigations with on-chain evidence, in English and Spanish.
 
 ## Communities
 
